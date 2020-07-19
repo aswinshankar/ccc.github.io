@@ -56,7 +56,6 @@ h3 {
 }
 .ccc{
   padding-top: 25px;
-  padding-bottom:10px;
 }
 #features {
   padding: 7% 10%;
@@ -132,8 +131,19 @@ padding: 0 10%;
 }
 .tilt{
   color: #ff4301;
+  padding-top: 20px;
 
 }
 #con{
   background-color: black;
+}
+.sl{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  color: #ff4301
+
+}
+#lit{
+  padding-left: 10%;
+  padding-right: 10%;
 }
