@@ -5,9 +5,8 @@ body{
   background-color: #ff4301;
   font-family: "Montserrat-Black", sans-serif;
   padding-bottom: 45px;
-  position: fixed;
-}
 
+}
 h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
@@ -43,6 +42,7 @@ h1 {
 
 .container-fluid {
   padding: 0 8% 0;
+  position: fixed;
 }
 
 .nav-link {
