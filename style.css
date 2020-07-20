@@ -17,6 +17,7 @@ h1 {
 .til {
   border-left: 0;
   padding-left: 0;
+  position: fixed;
 }
 
 .navbar-brand {
@@ -42,7 +43,6 @@ h1 {
 
 .container-fluid {
   padding: 0 8% 0;
-  position: fixed;
 }
 
 .nav-link {
