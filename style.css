@@ -1,5 +1,5 @@
 body{
-  background-color: black;
+  background-color: #4a3f35;
 }
 #title {
   background-color: #ff4301;
@@ -16,8 +16,7 @@ h1 {
 
 .til {
   border-left: 0;
-  padding-left: 0;
-
+  padding-top: 0px;
 }
 
 .navbar-brand {
@@ -31,6 +30,10 @@ h1 {
   text-align:right;
   color: black;
   padding-bottom: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: Black;
 }
 .nav-item {
   padding: 0 18px;
@@ -60,39 +63,39 @@ h3 {
   padding-top: 25px;
 }
 #features {
-  padding: 7% 10%;
+  padding: 3% 10%;
   border: 25%;
-  background-color: black;
+  background-color: #ff4301 ;
 }
 
 p {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   padding: 0 7%;
   color: grey;
 }
 
 .fas {
   color: #ef8172;
-  padding-bottom: 10px;
-  padding-top: 30px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .fas:hover {
-  color: #ff4301;
+  color: #4a3f35;
 
 }
 .far {
   color: #ef8172;
-  padding-bottom: 10px;
-  padding-top: 30px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .far:hover {
   color: #ff4301;
 }
 #testimonials{
-  background-color: #5e6f64;
+  background-color: #4a3f35;
   color: black;
 
 
@@ -132,13 +135,13 @@ padding: 0 10%;
 .jl{
   padding-top:15px;
 }
-.tilt{
+.til{
   color: #ff4301;
   padding-top: 20px;
 
 }
 #con{
-  background-color: black;
+  background-color: #4a3f35;
 }
 .sl{
   font-family: 'Ubuntu', sans;
@@ -164,4 +167,14 @@ padding: 0 10%;
 }
 .card-body{
   background-color: #2f2519;
+}
+.tb{
+  color: black;
+  font-size: 1.2rem;
+}
+.tilt{
+  color: #4a3f35;
+}
+h4{
+  padding-top: 0px;
 }
