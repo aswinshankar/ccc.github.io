@@ -140,7 +140,7 @@ padding: 0 10%;
   background-color: black;
 }
 .sl{
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans;
   font-size: 1.5rem;
   color: #ff4301
 
@@ -160,4 +160,7 @@ padding: 0 10%;
 
 .cl{
   padding: 1% .5%;
+}
+.card-body{
+  background-color: #4a3f35;
 }
