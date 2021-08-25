@@ -18,7 +18,18 @@ h1 {
   line-height: 1.5;
   color: Black;
 }
-
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: Black;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: Black;
+}
 .til {
   border-left: 0;
   padding-top: 0px;
@@ -97,7 +108,7 @@ p {
 }
 
 .fas {
-  color: #ef8172;
+  color: #C06014;
   padding-bottom: 5px;
   padding-top: 5px;
 }
@@ -107,13 +118,13 @@ p {
 
 }
 .far {
-  color: #ef8172;
+  color: #C06014;
   padding-bottom: 5px;
   padding-top: 5px;
 }
 
 .far:hover {
-  color: #ff4301;
+  color: #4a3f35;
 }
 
 #bb{
@@ -131,9 +142,9 @@ padding: 0 10%;
   padding-top: 0;
 }
 #footer{
-  background-color: #ff4001;
-  padding-bottom: 10px;
+  background-color: white;
 
+  font-family: "Montserrat-Black", sans-serif;
 
 }
 .p{
@@ -186,4 +197,16 @@ h4{
 }
 .tilt{
   color: black;
+}
+a.f_link:visited{
+  color:white;
+}
+a.f_link:active{
+  color: #ff4301 ;
+}
+a.f_link:link{
+  color:white;
+}
+a.f_link:hover{
+  color: #787A91;
 }
