@@ -1,12 +1,17 @@
 body{
-  background-color: #4a3f35;
+  background-image:linear-gradient(140deg,#ff4301, white);
+  padding: inherit;
+  border-radius: 0 0 150% 70%;
 }
+
 #title {
   background-color: white;
   font-family: "Montserrat-Black", sans-serif;
   padding-bottom: 0;
 
 }
+
+
 h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
@@ -78,9 +83,10 @@ h3 {
   padding-top: 25px;
 }
 #features {
-  padding: 3% 10%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   border: 25%;
-  background-color: #ff4301 ;
+  background-color: white ;
 }
 
 p {
@@ -109,12 +115,7 @@ p {
 .far:hover {
   color: #ff4301;
 }
-#testimonials{
-  background-color: #4a3f35;
-  color: black;
 
-
-}
 #bb{
   padding: 0 10% 7%;
   border: 25%;
@@ -125,9 +126,7 @@ p {
 #l{
 padding: 0 10%;
 }
-#m{
-  padding: 0 30%;
-}
+
 #n{
   padding-top: 0;
 }
@@ -149,13 +148,11 @@ padding: 0 10%;
   padding-top:15px;
 }
 .til{
-  color: #ff4301;
+  color: black;
   padding-top: 20px;
 
 }
-#con{
-  background-color: #4a3f35;
-}
+
 .sl{
   font-family: 'Ubuntu', sans;
   font-size: 1.5rem;
@@ -178,16 +175,15 @@ padding: 0 10%;
   padding: 1% .5%;
   /*background-color: #2f2519;*/
 }
-.card-body{
-  background-color: #2f2519;
-}
+
 .tb{
-  color: black;
+  color: #B2B1B9;
   font-size: 1.2rem;
 }
-.tilt{
-  color: #4a3f35;
-}
+
 h4{
   padding-top: 0px;
+}
+.tilt{
+  color: black;
 }
