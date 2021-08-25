@@ -2,7 +2,7 @@ body{
   background-color: #4a3f35;
 }
 #title {
-  background-color: #ff4301;
+  background-color: white;
   font-family: "Montserrat-Black", sans-serif;
   padding-bottom: 0;
 
@@ -28,17 +28,32 @@ h1 {
 }
 .cd{
   text-align:right;
-  color: black;
+  color: #ff4301 ;
   padding-bottom: 0;
   font-family: "Montserrat", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   line-height: 1.5;
   color: Black;
 }
 .nav-item {
   padding: 0 18px;
+  color: #B2B1B9;
+
+
 }
 
+.nav-item a.hov:visited{
+  color:#B2B1B9;
+}
+.nav-item a.hov:active{
+  color: #ff4301 ;
+}
+.nav-item a.hov:link{
+  color:#B2B1B9;
+}
+.nav-item a.hov:hover{
+  color: #ff4301 ;
+}
 .ti {
   width: 50%;
   transform: rotate(25deg);
