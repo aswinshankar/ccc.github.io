@@ -222,6 +222,9 @@ a.f_link:hover{
     background-image: linear-gradient(45deg,rgba(255,67,1, 0.75), rgba(255,255,255, 0.850)),url(cal.jpeg);
     background-size: contain;
   }
+  p.fe_pa{
+    color: white;
+  }
 }
 .con_pa{
   color: white;
