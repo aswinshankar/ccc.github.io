@@ -232,3 +232,10 @@ a.f_link:hover{
 .geg{
   height: 50%;
 }
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:auto;   /* Height of the footer */
+   background:#6cf;
+}
