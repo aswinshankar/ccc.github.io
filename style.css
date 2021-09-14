@@ -199,16 +199,16 @@ h4{
   color: black;
 }
 a.f_link:visited{
-  color:white;
+  color:#C06014;
 }
 a.f_link:active{
-  color: #ff4301 ;
+  color: #C06014 ;
 }
 a.f_link:link{
-  color:white;
+  color:#C06014;
 }
 a.f_link:hover{
-  color: #787A91;
+  color: #C06014;
 }
 @media screen and (max-width: 991px) {
   div.con_p {
@@ -228,4 +228,7 @@ a.f_link:hover{
 }
 .con_pa{
   color: white;
+}
+.geg{
+  height: 50%;
 }
