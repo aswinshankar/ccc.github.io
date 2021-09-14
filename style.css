@@ -233,9 +233,15 @@ a.f_link:hover{
   height: 50%;
 }
 #footer {
-   
+
    bottom:0;
    width:100%;
-   height:auto;   /* Height of the footer */
+   height:15%;   /* Height of the footer */
    background:#6cf;
+}
+#title
+{
+  top: 0;
+  width:100%;
+  height:10%;
 }
