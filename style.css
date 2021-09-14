@@ -226,6 +226,18 @@ a.f_link:hover{
   p.fe_pa{
     color: white;
   }
+  div.con_j {
+    display: none;
+  }
+  section.fe_j{
+    background-image: linear-gradient(45deg,rgba(178,177,185, 0.75), rgba(255,255,255, 0.850)),url(tool.jpg);
+    background-size:contain;
+  }
+  section.con_o{
+    background-image: linear-gradient(45deg,rgba(255,67,1, 0.75), rgba(255,255,255, 0.850)),url(align.jpg);
+    background-size: contain;
+  }
+
 }
 .con_pa{
   color: white;
