@@ -2,6 +2,7 @@ body{
   background-image:linear-gradient(140deg,#ff4301, white);
   padding: inherit;
   border-radius: 0 0 150% 70%;
+  overflow: scroll;
 }
 
 #title {
